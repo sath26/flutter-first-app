@@ -21,10 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ### build apk file
 
-`flutter clean`
-`flutter pub upgrade`
-`flutter pub cache repair`
-`flutter build apk`
+- `flutter clean`
+- `flutter pub upgrade`
+- `flutter pub cache repair`
+- `flutter build apk`
 
 ## copy file from PC to device
 
@@ -36,3 +36,9 @@ samples, guidance on mobile development, and a full API reference.
 - bottom right conner there is device detail of device adb is connected to
 - after chosen
   -click on run form `main.dart`
+
+## how to open two windows of same workspace in vscode
+
+(Command + shift + P in Mac), then type dupl
+
+## hot reload in multiple devices
